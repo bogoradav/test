@@ -6,7 +6,7 @@ public class Main {
         //dd
          int i = 1;
           int r = 2;
-          int a = i + r;
+          int a = i + r + i;
         System.out.println(a);
     }
 }
